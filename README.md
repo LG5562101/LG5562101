@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @LG5562101
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m LuoGuan
+- 👀 I’m interested in front end
+- 🌱 I’m currently learning Vue3
+- 📫 How to reach me
+- 2256477577@qq.com
 
 <!---
 LG5562101/LG5562101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
