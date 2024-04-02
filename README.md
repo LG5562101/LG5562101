@@ -1,6 +1,6 @@
 - 👋 Hi, I’m LuoGuan
 - 👀 I’m interested in frontend
-- 🌱 I’m currently learning Vue3
+- 🌱 I’m currently learning Rax
 - 📫 How to reach me
 - 2256477577@qq.com
 
